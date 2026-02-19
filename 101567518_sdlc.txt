@@ -1,1 +1,2 @@
 Importance of DevOps in SDLC - intro
+Role of DevOps engineer in software lifecycle
