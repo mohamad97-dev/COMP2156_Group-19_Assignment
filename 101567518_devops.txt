@@ -1,4 +1,4 @@
-COMP 2156 DevOps course info - intro
-Course structure, labs, assignments
-Tools used in COMP 2156 labs
-Summary and conclusion
+COMP 2156 is a DevOps course that introduces students to best practices in software development and operations. 
+The course covers version control using Git, continuous integration and deployment pipelines, and containerization with Docker. 
+Students learn how to automate workflows and improve collaboration between development and operations teams.
+
