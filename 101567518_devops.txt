@@ -1,1 +1,2 @@
 COMP 2156 DevOps course info - intro
+Course structure, labs, assignments
