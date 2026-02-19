@@ -1,0 +1,4 @@
+Importance of DevOps in SDLC - intro
+Role of DevOps engineer in software lifecycle
+Continuous Integration and Deployment importance
+Summary and conclusion
