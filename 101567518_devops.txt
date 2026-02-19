@@ -1,3 +1,4 @@
 COMP 2156 DevOps course info - intro
 Course structure, labs, assignments
 Tools used in COMP 2156 labs
+Summary and conclusion
