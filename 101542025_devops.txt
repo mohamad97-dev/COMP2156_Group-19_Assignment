@@ -1,0 +1,3 @@
+COMP 2156 is an intro DevOps course that teaches foundational tools and practices such as Git version control, basic Git Bash commands, continuous
+integration with Travis CI, containerization using Docker, and cloud deployment concepts with Microsoft Azure. The course helps students understand how modern
+development workflows integrate automation, collaboration, and cloud technologies to support efficient software delivery and deployment.
