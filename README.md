@@ -26,8 +26,28 @@ Student ID: 101601533
 
 ### Alex — 101563420
 
-Branch: 101563420-Alex  
-Added documentation files for George Brown, DevOps course, and SDLC.
+Name: Alex
+
+Student ID: 101563420
+
+- Created branch 101563420-Alex
+
+- Created three required files:
+  - 101563420_gb.txt
+  - 101563420_devops.txt
+  - 101563420_sdlc.txt
+
+- Added content related to:
+  - George Brown College overview
+  - COMP 2156 DevOps course summary
+  - Importance of DevOps in the SDLC
+
+- Made 10+ commits with appropriate messages
+
+- Opened Pull Request and successfully merged branch into main
+
+- Pulled latest updates from remote repository
+
 
 ### Mohamad Hnaino
 
