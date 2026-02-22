@@ -1,12 +1,4 @@
-# COMP2156\_Group-19\_Assignment
-
-
-
---------------------------------------------------
-
-
-
-\## Group Member Contribution
+## Group Member Contribution
 
 
 
@@ -31,4 +23,11 @@ Student ID: 101601533
 \- Merged branch into main
 
 \- Pulled latest updates from remote repository
+
+=======
+# COMP2156_Group-19_Assignment
+
+### Alex — 101563420
+Branch: 101563420-Alex  
+Added documentation files for George Brown, DevOps course, and SDLC.
 
