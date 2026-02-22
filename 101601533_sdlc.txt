@@ -17,3 +17,7 @@ Each model has advantages depending on project requirements.
 Agile SDLC allows iterative development and continuous feedback.
 Testing is performed throughout the SDLC process.
 Proper documentation improves long-term maintenance.
+
+DevOps improves collaboration between developers and IT operations teams.
+It shortens the software release cycle and increases deployment frequency.
+Continuous feedback allows faster bug fixing and product improvements.
