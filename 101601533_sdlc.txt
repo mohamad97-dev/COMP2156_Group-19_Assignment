@@ -25,3 +25,7 @@ Continuous feedback allows faster bug fixing and product improvements.
 Agile methodology divides development into short sprints.
 Frequent releases allow faster feedback from users.
 Teams can quickly adapt to changing requirements.
+
+Automated testing ensures software reliability.
+Continuous Integration tools run tests automatically after each commit.
+Monitoring tools help maintain system performance.
