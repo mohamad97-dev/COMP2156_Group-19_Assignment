@@ -37,3 +37,4 @@ Added documentation files for George Brown, DevOps course, and SDLC.
 - Student ID: 101580827
 - Branch: 101580827-Mohamad
 - Added three files for gb, DevOps, and SDLC. Updated README.md to add my information to it.
+- 13+ commits, fixes, and formating for three documents and README. Merged the branch together.
