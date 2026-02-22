@@ -21,3 +21,7 @@ Security integration in DevOps is often called DevSecOps.
 COMP 2156 introduces students to Git, GitHub, and version control systems.
 The course teaches branching strategies and collaboration in teams.
 Students also learn about CI/CD pipelines and automation tools.
+
+DevSecOps integrates security practices into the DevOps pipeline.
+Automated security testing helps detect vulnerabilities early.
+Security is shared responsibility between development and operations teams.
