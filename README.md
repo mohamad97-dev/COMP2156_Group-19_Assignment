@@ -44,3 +44,17 @@ Added documentation files for George Brown, DevOps course, and SDLC.
 - email: ethan.cardenas@georgebrown.ca
 - student id: 101542025
 - Added three files gb.txt, devops.txt, sdlc.txt. updated README. made 10 commits. merged branch into main.
+
+### Matheo — 101567518
+
+- Name: Matheo  
+- Email: 101567518@georgebrown.ca  
+- Student ID: 101567518  
+- Branch: 101567518-Matheo  
+
+- Added three required files:
+  - 101567518_gb.txt
+  - 101567518_devops.txt
+  - 101567518_sdlc.txt
+- Made multiple commits with original content
+- Merged personal branch into main
