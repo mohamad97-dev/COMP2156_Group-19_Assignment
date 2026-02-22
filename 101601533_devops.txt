@@ -17,3 +17,14 @@ DevOps enhances productivity and shortens development cycles.
 DevOps also promotes monitoring and feedback throughout the development lifecycle.
 Automation pipelines help teams detect issues early.
 Security integration in DevOps is often called DevSecOps.
+
+COMP 2156 introduces students to Git, GitHub, and version control systems.
+The course teaches branching strategies and collaboration in teams.
+Students also learn about CI/CD pipelines and automation tools.
+
+DevSecOps integrates security practices into the DevOps pipeline.
+Automated security testing helps detect vulnerabilities early.
+Security is shared responsibility between development and operations teams.
+
+Overall, the COMP 2156 DevOps course prepares students for modern IT roles.
+It emphasizes collaboration, automation, and continuous improvement.
