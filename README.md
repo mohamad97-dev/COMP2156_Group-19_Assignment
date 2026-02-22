@@ -48,7 +48,7 @@ Added documentation files for George Brown, DevOps course, and SDLC.
 ### Matheo — 101567518
 
 - Name: Matheo  
-- Email: 101567518@georgebrown.ca  
+- Email: Matheo.Tripas@georgebrown.ca  
 - Student ID: 101567518  
 - Branch: 101567518-Matheo  
 
