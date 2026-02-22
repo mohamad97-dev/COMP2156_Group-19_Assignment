@@ -1,4 +1,6 @@
-## Group Member Contribution
+# COMP2156_Group-19_Assignment
+
+# Group Member Contribution
 
 Name: Rohail Bhatti
 
@@ -22,8 +24,6 @@ Student ID: 101601533
 
 =======
 
-# COMP2156_Group-19_Assignment
-
 ### Alex — 101563420
 
 Branch: 101563420-Alex  
@@ -35,3 +35,4 @@ Name: Mohamad Hnaino
 Email: mohamad.hnaino@georgebrown.ca
 101580827@georgebrown.ca
 Student ID: 101580827
+Branch: 101580827-Mohamad
