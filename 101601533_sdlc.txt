@@ -1,0 +1,19 @@
+DevOps plays a crucial role in the Software Development Life Cycle.
+It integrates development and operations for faster delivery.
+Automation supports testing and deployment phases.
+Continuous feedback improves product quality.
+DevOps reduces deployment risks and downtime.
+Collaboration between teams improves efficiency.
+Learning DevOps is important for modern IT careers.
+It ensures scalable and reliable software systems.
+
+SDLC stands for Software Development Life Cycle.
+It is a structured process used to develop high-quality software.
+The main phases include planning, analysis, design, implementation, testing, deployment, and maintenance.
+SDLC helps teams deliver software efficiently and systematically.
+Different SDLC models include Waterfall, Agile, Spiral, and DevOps.
+Each model has advantages depending on project requirements.
+
+Agile SDLC allows iterative development and continuous feedback.
+Testing is performed throughout the SDLC process.
+Proper documentation improves long-term maintenance.
