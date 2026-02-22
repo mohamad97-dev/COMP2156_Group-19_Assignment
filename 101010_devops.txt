@@ -1,0 +1,15 @@
+COMP 2156 – DevOps for System Administration teaches modern DevOps practices.
+The course covers Git, GitHub, CI/CD pipelines, and automation.
+Students learn how to manage repositories and branching strategies.
+Continuous Integration ensures code is tested automatically.
+Continuous Deployment helps deliver software faster.
+DevOps improves collaboration between development and operations teams.
+Automation reduces manual errors and increases reliability.
+Monitoring and logging are important DevOps practices.
+
+DevOps is a software development approach that combines development and operations.
+It focuses on collaboration between development and IT teams.
+DevOps encourages automation, continuous integration, and continuous delivery.
+It improves deployment frequency and reduces system failures.
+Popular DevOps tools include Git, Jenkins, Docker, and Kubernetes.
+DevOps enhances productivity and shortens development cycles.
