@@ -21,3 +21,7 @@ Proper documentation improves long-term maintenance.
 DevOps improves collaboration between developers and IT operations teams.
 It shortens the software release cycle and increases deployment frequency.
 Continuous feedback allows faster bug fixing and product improvements.
+
+Agile methodology divides development into short sprints.
+Frequent releases allow faster feedback from users.
+Teams can quickly adapt to changing requirements.
