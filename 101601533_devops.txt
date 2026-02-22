@@ -25,3 +25,6 @@ Students also learn about CI/CD pipelines and automation tools.
 DevSecOps integrates security practices into the DevOps pipeline.
 Automated security testing helps detect vulnerabilities early.
 Security is shared responsibility between development and operations teams.
+
+Overall, the COMP 2156 DevOps course prepares students for modern IT roles.
+It emphasizes collaboration, automation, and continuous improvement.
