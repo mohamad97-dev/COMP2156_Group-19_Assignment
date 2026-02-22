@@ -36,3 +36,4 @@ Email: mohamad.hnaino@georgebrown.ca
 101580827@georgebrown.ca
 Student ID: 101580827
 Branch: 101580827-Mohamad
+Added three files for gb, DevOps, and SDLC. Updated README.md to add my information to it. 
