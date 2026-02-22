@@ -1,1 +1,2 @@
-COMP 2156 DevOps is a course taught at george brown college and is about learning the best practices a DevOps engineer uses in the workforce. Utilizing various DevOps tools and techniques in software development
+COMP 2156 DevOps is a course taught at george brown college and is about learning the best practices a DevOps engineer uses in the workforce. 
+Utilizing various DevOps tools and techniques in software development.
