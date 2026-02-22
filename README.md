@@ -37,4 +37,10 @@ Added documentation files for George Brown, DevOps course, and SDLC.
 - Student ID: 101580827
 - Branch: 101580827-Mohamad
 - Added three files for gb, DevOps, and SDLC. Updated README.md to add my information to it.
-- 13+ commits, fixes, and formating for three documents and README. Merged the branch together.
+
+### Ethan - 101542025
+
+- name: Ethan Cardenas
+- email: ethan.cardenas@georgebrown.ca
+- student id: 101542025
+- Added three files gb.txt, devops.txt, sdlc.txt. updated README. made 10 commits. merged branch into main.
