@@ -13,3 +13,7 @@ The main phases include planning, analysis, design, implementation, testing, dep
 SDLC helps teams deliver software efficiently and systematically.
 Different SDLC models include Waterfall, Agile, Spiral, and DevOps.
 Each model has advantages depending on project requirements.
+
+Agile SDLC allows iterative development and continuous feedback.
+Testing is performed throughout the SDLC process.
+Proper documentation improves long-term maintenance.
