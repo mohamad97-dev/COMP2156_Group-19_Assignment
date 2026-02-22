@@ -1,3 +1,5 @@
 COMP 2156 focuses on how development and operations teams work together. We’ve been learning Git, branching, and how teams collaborate on code in real environments.
 
 The course also introduces automation with tools like GitHub Actions, showing how testing and deployments can be streamlined. It’s a practical look at how modern IT teams manage software.
+
+These skills are useful for roles in cloud, infrastructure, and automation.
